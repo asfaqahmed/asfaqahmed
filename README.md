@@ -12,7 +12,6 @@
 - ⚡ Fun fact: I love to play cricket
 
 
-<br />
 
 <br />
 <br />
