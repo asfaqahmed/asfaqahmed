@@ -28,7 +28,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Python](https://img.shields.io/badge/python-Python-yellowgreen)
+![Python](https://img.shields.io/badge/Python-Django-yellowgreen)
 
 ---
 ### Stats:
