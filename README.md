@@ -1,15 +1,19 @@
 
 
 # Github Profile
-### Dear Community, I'm Asfaq Ahmed - 🥰
+### I'm Asfaq Ahmed - 🥰
 
 
-## I'm a Full Stack Web Developer !!
+Technologies I work with:
 
-- 🌱 I’m currently learning machine learning 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play cricket
+🟡 GoLang, Fiber, Gin
+🟦 PostgreSQL, MSSQL
+⚛️ React, Core UI, Next.js (Frontend)
+Familiar with:
+
+🐍 Python, Django
+⚛️ React.js, Bootstrap
+🔗 REST API, PostgreSQL
 
 
 <br />
