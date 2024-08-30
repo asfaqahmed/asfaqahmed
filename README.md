@@ -9,8 +9,8 @@ Technologies I work with:
 🟡 GoLang, Fiber, Gin
 🟦 PostgreSQL, MSSQL
 ⚛️ React, Core UI, Next.js (Frontend)
+<br />
 Familiar with:
-
 🐍 Python, Django
 ⚛️ React.js, Bootstrap
 🔗 REST API, PostgreSQL
